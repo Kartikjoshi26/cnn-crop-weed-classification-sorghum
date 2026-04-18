@@ -27,14 +27,7 @@ The model is trained on an image dataset of sorghum fields and aims to assist in
 
 ### Dataset Loading
 
-- Used `image_dataset_from_directory`
-- Automatic label inference from folder structure
-
-### Performance Optimization
-
-- Caching
-- Prefetching
-- Shuffling
+- Used [Sorghum Weed Dataset](https://www.kaggle.com/datasets/niharmnit/sorghum-weed-dataset)
 
 ## Data Augmentation
 
