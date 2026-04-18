@@ -67,12 +67,12 @@ SorghumWeedDataset_Classification/
 
 Model evaluated on test dataset using:
 
-- ✅ Accuracy
-- ✅ Precision
-- ✅ Recall
-- ✅ F1 Score
-- ✅ Confusion Matrix
-- ✅ Classification Report
+-  Accuracy
+-  Precision
+-  Recall
+-  F1 Score
+-  Confusion Matrix
+-  Classification Report
 
 ## Results
 
